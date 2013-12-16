@@ -231,9 +231,6 @@ class MerlinDataModels extends MerlinUtils
 	  Constructor Method
 	-------------------------------------------------*/
 
-    /**
-     *
-     */
     public function __construct()
 	{
         parent::__construct();
