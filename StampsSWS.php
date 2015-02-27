@@ -1,6 +1,6 @@
 <?php
 /**
- * Class to get and process Stamps.com postage, labels, etc.
+ * Class to get and process Stamps.com postage, labels, etc. via the Stamps API
  **/
 class StampsSWS
 {
