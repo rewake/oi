@@ -1,4 +1,7 @@
 <?php
+/**
+ * Class to get and process Stamps.com postage, labels, etc.
+ **/
 class StampsSWS
 {
 	// private $callURL = "https://swsim.testing.stamps.com/swsim/SwsimV34.asmx";
